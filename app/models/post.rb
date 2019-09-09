@@ -6,6 +6,7 @@ class Post < ActiveRecord::Base
 
   #put new code here
 
+
   private
 
   def is_title_case
